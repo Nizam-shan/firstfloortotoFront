@@ -156,7 +156,7 @@ const TaskBoard = () => {
               ))
             ) : (
               <Grid item xs={12}>
-                <Typography>No Task Found!!.</Typography>
+                <Typography>No Task Found!.</Typography>
               </Grid>
             )}
           </Grid>
